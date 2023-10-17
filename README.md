@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-amorimdasilvastefany@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amorimdasilvastefany@gmail.com)](amorimdasilvastefany@gmail.com)
 
 
-👩‍🎓 Eu sou estudante de Sistemas de Informação na Faculdade Anhanguera <br />
+👩‍🎓 Eu sou estudante de Análise e desenvolvimento de sistemas na Faculdade Anhanguera <br />
 🚀 Cursando o primeiro semestre <br />
 🔥 Atualmente realizando migração de carreira para a área de tecnologia <br />
 
